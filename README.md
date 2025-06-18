@@ -8,6 +8,6 @@ This was essentially "vibe-coded". While I am not worried about any implications
 
 ## How to use
 1. Download to the Raspberry PI5 (Raspberry OS) that you want to use this on.
-2. Change out the MQTT IP, MQTT port if necessary, MQTT username, and MQTT password. You may also need to change the XAUTHORITY path if not using the default pi username/home path.
+2. Change out the PIR_GPIO, MQTT IP, MQTT port if necessary, MQTT username, and MQTT password. You may also need to change the XAUTHORITY path if not using the default pi username/home path.
 3. You can run as a test "python3 pir_wake.py" or setup as a service to start when the PI boots.
 4. You can also adjust the timing by playing with the timeout and screen off variables if you wish.
