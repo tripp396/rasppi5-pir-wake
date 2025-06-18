@@ -3,7 +3,7 @@ PIR Wake and MQTT sensor for digital dashboard.
 This will use an AM312 Mini PIR detactor module in order to wake the monitor connected to a Raspberry PI5. This will also send the motion data to a sensor on your MQTT server for use in other automations.
 The sensor I use is this one: https://amzn.to/45sbFjG
 
-##AI DISCLAIMER
+## AI DISCLAIMER
 This was essentially "vibe-coded". While I am not worried about any implications of a small amount of code to control a PIR sensor, there may be issues with this code. I am an amateur coder at best which is why I used AI in the first place.
 
 ## How to use
